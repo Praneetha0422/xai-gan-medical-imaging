@@ -2,37 +2,38 @@
 
 
 # OVERVIEW
-This project focuses on improving medical imaging using Generative Adversarial Networks (GANs) and providing transparent diagnosis using Explainable AI (XAI).
+. This project focuses on improving medical imaging using Generative Adversarial Networks (GANs) and providing transparent diagnosis using Explainable AI (XAI).
 
 # Tech Stack
-Python
-TensorFlow / PyTorch
-OpenCV
-NumPy, Pandas
-Google Colab
+ . Python
+ . TensorFlow / PyTorch
+ . OpenCV
+ . NumPy
+ . Pandas
+ . Google Colab
 
 # Methodology
-Image preprocessing
-Image enhancement using GAN
-Model training & prediction
-Explainability using XAI (Grad-CAM / SHAP)
+ . Image preprocessing
+ . Image enhancement using GAN
+ . Model training & prediction
+ . Explainability using XAI (Grad-CAM / SHAP)
 
 # How to Run
-Open the notebook in Google Colab
-Run all cells step by step
-Upload dataset if required
+ . Open the notebook in Google Colab
+ . Run all cells step by step
+ . Upload dataset if required
 
 # Results
-Improved image clarity
-Accurate predictions
-Visual explanations of model decisions
+ . Improved image clarity
+ . Accurate predictions
+ . Visual explanations of model decisions
 
 # Future Scope
-Real-time medical use
-Multi-disease detection
-Higher model accuracy
+. Real-time medical use
+. Multi-disease detection
+. Higher model accuracy
 
 # Author
 
-Praneetha
-Sravan 
+ Mokara Praneetha
+ Raikindi Sravan Kumar
