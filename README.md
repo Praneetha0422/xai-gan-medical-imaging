@@ -18,10 +18,6 @@
  . Model training & prediction
  . Explainability using XAI (Grad-CAM / SHAP)
 
-# How to Run
- . Open the notebook in Google Colab
- . Run all cells step by step
- . Upload dataset if required
 
 # Results
  . Improved image clarity
